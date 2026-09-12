@@ -28,13 +28,6 @@ bukan daftar yang panjang, tapi yang di atas itu beneran dipakai, bukan sekadar 
 
 dua-duanya sama-sama soal bikin sesuatu yang orang lain bisa *pencet, klik, mainin*. ada hasil yang kelihatan, bukan cuma output di terminal. itu yang bikin nagih.
 
-## kontak
-
-kalau mau ngobrol soal project, kolaborasi, atau sekadar diskusi soal belajar coding, bisa lewat:
-
-- email: emailkamu@example.com
-- linkedin: linkedin.com/in/username-kamu
-
 ---
 
 *repo ini masih akan terus berubah seiring saya belajar hal baru.*
